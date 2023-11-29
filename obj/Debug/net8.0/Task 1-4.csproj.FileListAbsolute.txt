@@ -1,0 +1,14 @@
+C:\Users\Dmitry\YandexDisk\Курсы IT Осень 2023 (GB)\Блок 3. Знакомство с языками программирования\Тема 3. Массивы\Task 1-4\obj\Debug\net8.0\Task 1-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitry\YandexDisk\Курсы IT Осень 2023 (GB)\Блок 3. Знакомство с языками программирования\Тема 3. Массивы\Task 1-4\obj\Debug\net8.0\Task 1-4.AssemblyInfoInputs.cache
+C:\Users\Dmitry\YandexDisk\Курсы IT Осень 2023 (GB)\Блок 3. Знакомство с языками программирования\Тема 3. Массивы\Task 1-4\obj\Debug\net8.0\Task 1-4.AssemblyInfo.cs
+C:\Users\Dmitry\YandexDisk\Курсы IT Осень 2023 (GB)\Блок 3. Знакомство с языками программирования\Тема 3. Массивы\Task 1-4\obj\Debug\net8.0\Task 1-4.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\YandexDisk\Курсы IT Осень 2023 (GB)\Блок 3. Знакомство с языками программирования\Тема 3. Массивы\Task 1-4\bin\Debug\net8.0\Task 1-4.exe
+C:\Users\Dmitry\YandexDisk\Курсы IT Осень 2023 (GB)\Блок 3. Знакомство с языками программирования\Тема 3. Массивы\Task 1-4\bin\Debug\net8.0\Task 1-4.deps.json
+C:\Users\Dmitry\YandexDisk\Курсы IT Осень 2023 (GB)\Блок 3. Знакомство с языками программирования\Тема 3. Массивы\Task 1-4\bin\Debug\net8.0\Task 1-4.runtimeconfig.json
+C:\Users\Dmitry\YandexDisk\Курсы IT Осень 2023 (GB)\Блок 3. Знакомство с языками программирования\Тема 3. Массивы\Task 1-4\bin\Debug\net8.0\Task 1-4.dll
+C:\Users\Dmitry\YandexDisk\Курсы IT Осень 2023 (GB)\Блок 3. Знакомство с языками программирования\Тема 3. Массивы\Task 1-4\bin\Debug\net8.0\Task 1-4.pdb
+C:\Users\Dmitry\YandexDisk\Курсы IT Осень 2023 (GB)\Блок 3. Знакомство с языками программирования\Тема 3. Массивы\Task 1-4\obj\Debug\net8.0\Task 1-4.dll
+C:\Users\Dmitry\YandexDisk\Курсы IT Осень 2023 (GB)\Блок 3. Знакомство с языками программирования\Тема 3. Массивы\Task 1-4\obj\Debug\net8.0\refint\Task 1-4.dll
+C:\Users\Dmitry\YandexDisk\Курсы IT Осень 2023 (GB)\Блок 3. Знакомство с языками программирования\Тема 3. Массивы\Task 1-4\obj\Debug\net8.0\Task 1-4.pdb
+C:\Users\Dmitry\YandexDisk\Курсы IT Осень 2023 (GB)\Блок 3. Знакомство с языками программирования\Тема 3. Массивы\Task 1-4\obj\Debug\net8.0\Task 1-4.genruntimeconfig.cache
+C:\Users\Dmitry\YandexDisk\Курсы IT Осень 2023 (GB)\Блок 3. Знакомство с языками программирования\Тема 3. Массивы\Task 1-4\obj\Debug\net8.0\ref\Task 1-4.dll
